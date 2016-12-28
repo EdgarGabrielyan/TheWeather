@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+
+    <string name="zero.btn">0</string>
+    <string name="one.btn">1</string>
+    <string name="two.btn">2</string>
+    <string name="three.btn">3</string>
+    <string name="four.btn">4</string>
+    <string name="five.btn">5</string>
+    <string name="six.btn">6</string>
+    <string name="seven.btn">7</string>
+    <string name="eight.btn">8</string>
+    <string name="nine.btn">9</string>
+    <string name="plus.btn">+</string>
+    <string name="minus.btn">-</string>
+    <string name="multiply.btn">*</string>
+    <string name="divide.btn">/</string>
+    <string name="cancel.btn">c</string>
+    <string name="equals.btn">=</string>
+</resources>
